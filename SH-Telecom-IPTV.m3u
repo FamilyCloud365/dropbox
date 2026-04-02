@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
-#EXTINF:-1 tvg-id="102" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV1.png" group-title="综合",CCTV-1
+#EXTINF:-1 tvg-id="102" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img" group-title="综合",CCTV-1
 http://192.168.2.1:9085/rtp/233.18.204.52:5140
