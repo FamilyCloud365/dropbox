@@ -2,33 +2,23 @@
 
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.2.1:9085/rtp/233.18.204.52:5140?fcc=124.75.26.151:15970
-
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="央视",CCTV-2财经
 http://192.168.2.1:9085/rtp/233.18.204.68:5140?fcc=124.75.25.214:7777
-
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="央视",CCTV-3综艺
 http://192.168.2.1:9085/rtp/233.18.204.69:5140?fcc=124.75.26.151:15970
-
 #EXTINF:-1 tvg-id="127" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://192.168.2.1:9085/rtp/233.18.204.70:5140?fcc=124.75.25.214:7777
-
 #EXTINF:-1 tvg-id="128" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="央视",CCTV-5体育
 http://192.168.2.1:9085/rtp/233.18.204.71:5140?fcc=124.75.25.216:7777
-
 #EXTINF:-1 tvg-id="123" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="央视",CCTV-5+体育赛事
 http://192.168.2.1:9085/rtp/233.18.204.67:5140?fcc=124.75.25.214:7777
-
 #EXTINF:-1 tvg-id="129" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="央视",CCTV-6电影
 http://192.168.2.1:9085/rtp/233.18.204.72:5140?fcc=124.75.26.151:15970
-
 #EXTINF:-1 tvg-id="130" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://192.168.2.1:9085/rtp/233.18.204.73:5140?fcc=124.75.25.212:7777
-
 #EXTINF:-1 tvg-id="131" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://192.168.2.1:9085/rtp/233.18.204.74:5140?fcc=124.75.26.151:15970
-
 #EXTINF:-1 tvg-id="132" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="央视",CCTV-9纪录
 http://192.168.2.1:9085/rtp/233.18.204.75:5140?fcc=124.75.25.212:7777
-
 #EXTINF:-1 tvg-id="133" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="央视",CCTV-10科教
 http://192.168.2.1:9085/rtp/233.18.204.76:5140?fcc=124.75.26.151:15970
